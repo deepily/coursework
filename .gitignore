@@ -1,4 +1,6 @@
+# Jupiter artifacts
 **/.ipynb_checkpoints/**
+**/__pycache__/**
 
 # OS X detritus
 .DS_Store
