@@ -6,3 +6,6 @@
 .DS_Store
 ._.DS_Store
 **/._**
+
+# trax/tensorflow artifacts
+**/events.out.tfevents**
