@@ -1,5 +1,7 @@
 # Jupiter artifacts
 **/.ipynb_checkpoints/**
+
+# Python artifacts
 **/__pycache__/**
 
 # OS X detritus
@@ -9,3 +11,7 @@
 
 # trax/tensorflow artifacts
 **/events.out.tfevents**
+**/config.gin
+**/*.pkl
+**/*.npy.gz
+**/*.pkl.gz
