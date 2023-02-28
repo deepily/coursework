@@ -15,3 +15,6 @@
 **/*.pkl
 **/*.npy.gz
 **/*.pkl.gz
+
+# nltk artifacts
+**/nltk_data
